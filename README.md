@@ -1,5 +1,3 @@
-##Hi there 👋
-
 <!--
 **shirsteiner/shirsteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm Shir and I'm a third year CS - AI major at McGill University. 
+Hi there! I'm Shir and I'm a third year CS - AI major at McGill University. 
 - I'm currently the web developer for (https://numagazine.ca/)
 - I'm currently learning algorithm efficiency and digital circuit buidling
 - I'm looking for a soft eng internship for summer 2026
