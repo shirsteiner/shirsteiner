@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 Hi there! I'm Shir and I'm a third year CS - AI major at McGill University 🍁
-- I'm currently the web developer for (https://numagazine.ca/) 👩🏻‍💻
+- I'm currently working part time as a developer for (https://shlomitofir.com) 👩🏻‍💻
 - My skills include Java, C, Python, Git, Math, Linux OS 🧠
-- I'm currently learning algorithm efficiency and digital circuit buidling 🌱
-- I'm looking for a soft eng internship for summer 2026 ☀️
+- I'm currently learning Monte Carlo Search Trees to understand AI better 🌱
+- I'm looking for a soft eng internship for summer 2027 ☀️
 - You can reach me at shir.steiner@gmail.com ✉️
